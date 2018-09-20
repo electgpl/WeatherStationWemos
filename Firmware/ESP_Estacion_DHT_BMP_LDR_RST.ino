@@ -6,7 +6,7 @@
 #include <Wire.h>
 #include <Adafruit_BMP085.h>
 
-String apiKey = "EHW19OYPTK9J7F40";
+String apiKey = "APIKEY DE SU CUENTA THINGSPEAK";
 const char* server = "api.thingspeak.com";
 int pinDHT11 = D0;
 int pinFACTORY = D6;
